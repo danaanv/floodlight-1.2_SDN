@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.projectfloodlight:openflowj:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/projectfloodlight/openflowj/2.0.0-SNAPSHOT/openflowj-2.0.0-20160113.013531-27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/projectfloodlight/openflowj/2.0.0-SNAPSHOT/openflowj-2.0.0-20160113.013531-27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/projectfloodlight/openflowj/2.0.0-SNAPSHOT/openflowj-2.0.0-20160113.013531-27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
